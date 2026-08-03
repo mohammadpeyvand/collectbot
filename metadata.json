@@ -1,0 +1,6 @@
+{
+  "name": "High Density Control Center",
+  "description": "A high-density content harvester and monitoring admin panel featuring edge bot controls, real-time log streams, keyword filters, and source management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
